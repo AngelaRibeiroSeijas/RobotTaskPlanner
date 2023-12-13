@@ -1,2 +1,2 @@
 # RobotTaskPlanner
-Rute Planner for multi robot fleet in agriculture domains
+Route Planner for multi robot in agriculture domains
